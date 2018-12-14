@@ -21,8 +21,12 @@ h4 {
  font-family: 'Ropa Sans', sans-serif;
 }
 
-.shopping, .overview{
+.shopping{
   margin: 25px
+}
+
+.overview {
+  margin: 45px
 }
 
 .contact {
